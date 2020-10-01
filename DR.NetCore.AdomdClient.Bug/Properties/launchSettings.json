@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DR.NetCore.AdomdClient.Bug": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
